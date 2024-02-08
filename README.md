@@ -53,8 +53,3 @@ The `cipher` program requires five command-line arguments in the following order
 ## Error Handling
 
 The program includes basic error handling for invalid arguments and file read/write errors. Error messages are displayed in case of any issues.
-
-## Note
-
-This implementation is intended for educational purposes and may not be suitable for secure encryption needs.
-
